@@ -24,7 +24,7 @@
 
 > Building useful things and sharing the work in public.
 
-I'm a **B.Tech CSE student at Kalvium** who turns hackathon weekends into products. I lead **Team BinaryV2**, where I own the AI models and LLM layer; **Prajna** builds the frontend and **Shaheem** builds the backend and APIs. I care most about applied AI for **rural India and underserved communities**, and I'm also an **NSS** volunteer and web development head of the college tech club **YENTECH**.
+I'm a **B.Tech CSE student at Kalvium** who turns hackathon weekends into products. I lead **Team BinaryV2**, where I own the AI models and LLM layer;. I care most about applied AI for **rural India and underserved communities**, and I'm web development head of the college tech club **YENTECH**.
 
 | ROLE | FOCUS | TEAM | GOAL |
 |---|---|---|---|
