@@ -6,15 +6,19 @@
 
 <img src="./assets/name.svg" alt="JAGADISH" width="100%"/>
 
+<br/>
+
+<img src="./assets/mosaic.svg" alt="Animated dot-matrix portrait" width="680"/>
+
 <p>
-  <a href="https://www.linkedin.com/in/jagadishnaik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://jagadish-naik-yhnbsa.vise.page"><img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://agronova.in"><img src="https://img.shields.io/badge/AgroNova-16a34a?style=for-the-badge&logo=leaflet&logoColor=white" alt="AgroNova"/></a>
-  <a href="https://x.com/jagadish39203"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="mailto:jagadishnaikgerusoppa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/jagadishnaik"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="46"/></a>
+  <a href="https://jagadish.linklee.in"><img src="./assets/btn-linklee.svg" alt="Linklee" height="46"/></a>
+  <a href="https://x.com/jagadish39203"><img src="./assets/btn-x.svg" alt="X" height="46"/></a>
+  <a href="https://github.com/Jagadish-s-naik"><img src="./assets/btn-github.svg" alt="GitHub" height="46"/></a>
+  <a href="mailto:jagadishnaikgerusoppa@gmail.com"><img src="./assets/btn-email.svg" alt="Email" height="46"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Jagadish-s-naik&label=Profile%20views&color=14b8a6&style=flat-square" alt="Profile views"/>
+<a href="https://github.com/Jagadish-s-naik"><img src="https://hits.sh/github.com/Jagadish-s-naik.svg?style=for-the-badge&label=Profile%20views&color=14b8a6&labelColor=0b1214" alt="Profile views"/></a>
 
 </div>
 
@@ -141,8 +145,9 @@ Cybersecurity monitoring and security command-center dashboard.
 I enjoy working with people who care about the details, share the context and ship something useful. If you're building something in AI, agri-tech or public-good tech, let's talk.
 
 <div align="center">
-<a href="https://github.com/Jagadish-s-naik"><img src="https://img.shields.io/badge/GitHub-@jagadish--s--naik-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://jagadish-naik-yhnbsa.vise.page"><img src="https://img.shields.io/badge/Website-jagadish--naik-14b8a6?style=for-the-badge" alt="Website"/></a>
+<a href="https://jagadish.linklee.in"><img src="./assets/btn-linklee.svg" alt="Linklee" height="46"/></a>
+<a href="https://www.linkedin.com/in/jagadishnaik"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="46"/></a>
+<a href="https://x.com/jagadish39203"><img src="./assets/btn-x.svg" alt="X" height="46"/></a>
 </div>
 
 <img src="./assets/footer.svg" alt="Keep the story moving" width="100%"/>
